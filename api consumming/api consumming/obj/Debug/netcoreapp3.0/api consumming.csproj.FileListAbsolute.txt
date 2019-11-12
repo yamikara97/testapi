@@ -1,0 +1,36 @@
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.csprojAssemblyReference.cache
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\staticwebassets\api consumming.StaticWebAssets.Manifest.cache
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\staticwebassets\api consumming.StaticWebAssets.xml
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.RazorAssemblyInfo.cache
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.RazorAssemblyInfo.cs
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.AssemblyInfoInputs.cache
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.AssemblyInfo.cs
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\api consumming.exe
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\api consumming.deps.json
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\api consumming.runtimeconfig.json
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\api consumming.runtimeconfig.dev.json
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\api consumming.dll
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\api consumming.pdb
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\api consumming.Views.dll
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\api consumming.Views.pdb
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.TagHelpers.input.cache
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.TagHelpers.output.cache
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.RazorCoreGenerate.cache
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.RazorTargetAssemblyInfo.cache
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.RazorTargetAssemblyInfo.cs
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.Views.pdb
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.dll
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.pdb
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.csproj.CopyComplete
+C:\Users\hieuh\source\repos\api consumming\api consumming\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\hieuh\source\repos\api consumming\api consumming\obj\Debug\netcoreapp3.0\api consumming.MvcApplicationPartsAssemblyInfo.cache
